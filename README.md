@@ -5,6 +5,6 @@ This is the repo for our DGM 3790 Rich Internet Applications I course.
 
 The course is for super AWESOME people! Like us. :)
 
-Editing the awesomeBranch!
+For those of you who want to know more about the Github workflow, here is a really cool guide from Github: https://guides.github.com/introduction/flow/index.html
 
-Epic Awesomeness Shall Ensue!
+Also, here are a bunch of really cool tutorials from Github: https://guides.github.com/
